@@ -85,7 +85,7 @@ else
 fi
 
 # BEGIN UNZIP
-ls $TMPDIR2
+
 echo -e "\n**Unzipping MIUI..."
 unzip -q $MIUI_ZIP_DIR/$MIUI_ZIP_NAME 'firmware-update/*' 'META-INF/*' -d $TMPDIR2
 
