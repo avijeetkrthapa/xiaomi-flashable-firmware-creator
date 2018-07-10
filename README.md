@@ -2,7 +2,7 @@
 
 You can easily create flashable firmware zip from Recovery MIUI, in your Android device
 
-## Insructions
+## Instructions
   - Install Termux from F-Droid or Playstore
   - Give storage permissions to Termux from Android app settings
   - Open Termux and run the below codes
